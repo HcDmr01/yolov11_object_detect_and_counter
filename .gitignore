@@ -1,0 +1,24 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Python için
+__pycache__/
+*.pyc
+
+# Node.js projeleri için
+node_modules/
+.env
+
+# Log dosyaları
+*.log
+
+# IDE ayar dosyaları
+.vscode/
+.idea/
+
+
+*falling*
+
+datasets
+runs

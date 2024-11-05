@@ -1,0 +1,6 @@
+train: C:\Users\cande\Codes\PythonProjects\yolov11_object_detect_and_counter\train
+val: C:\Users\cande\Codes\PythonProjects\yolov11_object_detect_and_counter\val
+
+nc: 1
+
+names: ["brown_medicine"]
